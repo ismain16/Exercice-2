@@ -1,0 +1,74 @@
+body{
+    display: flex;
+    width:90%;margin:auto;min-width:600px;max-width:2000px;
+    
+}
+.SEDANS{
+
+    background-color:#FF8C00 ;
+    margin: 30px 0px 50px;
+    width: 220px;
+    height: 400px;
+    padding: 20px 40px 50px;
+    border-top-left-radius: 3%;
+    border-bottom-left-radius: 3%;
+    word-spacing: 2px;
+}
+.SUVS{
+    background-color: #6888cee1;
+    margin: 30px 0px 50px;
+    width: 220px;
+    height: 400px;
+    padding: 20px 40px 50px;
+   }
+.luxuruy{
+    background-color:#006400;
+    margin: 30px 0px 50px;
+    width: 220px;
+    height: 400px;
+    padding: 20px 40px 50px;
+    border-top-right-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+
+.SEDANS img{
+    margin-left: 4px;
+    
+}
+ h2 {
+    color:#FFFFF0; 
+    font-size:  30px; 
+    font-family: Georgia, serif;
+}
+p{
+    color:#FFFFF0; 
+    font-size:18px;  
+}
+.SEDANS  button{
+
+background-color:#FFFFF0 ;
+color: #FF8C00;
+width: 130px;
+height: 40px;
+border-radius: 40px;
+margin-top: 80px;
+
+}
+
+.SUVS button{
+background-color:#FFFFF0 ;
+color: #6888cee1;
+width: 130px;
+height: 40px;
+border-radius:  40px;
+margin-top: 80px;
+}
+.luxuruy button{
+background-color:#FFFFF0 ;
+color: #006400;
+width: 130px;
+height: 40px;
+border-radius:  40px;
+margin-top: 80px;
+
+}
